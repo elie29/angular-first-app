@@ -27,3 +27,6 @@ Run `git checkout master`
 
 ## Final project
 Run `git checkout final-project`
+
+## Generate new module
+Run `ng g m modules/header` or `ng generate module path/module_name`
