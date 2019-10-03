@@ -30,3 +30,8 @@ Run `git checkout final-project`
 
 ## Generate new module
 Run `ng g m modules/header` or `ng generate module path/module_name`
+
+## Generate new component
+Run `ng g c modules/header/components/role-selector --spec=false -t=true -s=true`
+or `ng g c modules/header/components/logo --skip-tests --inline-template=true --inline-style=true`
+N.B.: This command would add the component in its module
