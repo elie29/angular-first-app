@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-root',
   template: `
     <h1>Hello World</h1>
-    <app-header></app-header>
+    <app-layout></app-layout>
   `
 })
 export class AppComponent {}
