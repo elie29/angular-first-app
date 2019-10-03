@@ -7,6 +7,8 @@ import { Component } from '@angular/core';
       layout works!
     </p>
     <app-header></app-header>
+    <app-dashboard></app-dashboard>
+    <app-footer></app-footer>
   `
 })
 export class LayoutComponent {}
